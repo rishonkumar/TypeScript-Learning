@@ -1,0 +1,21 @@
+What TX does
+    Static Checking Analyze the code as we type. That's it
+
+TS -> complied to JS ->  
+
+TS it's a development tool Your project still run JS
+
+TYPES IN TS
+    Number 
+    String
+    Boolean
+    Null
+    Undefined
+    Void
+    Object
+    Array
+    Tuples
+    Any (NOT TO BE USED)
+    Unknown
+    Never
+
